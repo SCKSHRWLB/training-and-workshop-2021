@@ -1,4 +1,4 @@
-# training-and-workshop-2021
+# Training and Workshop 2021
 
 ## Software Testing
 
