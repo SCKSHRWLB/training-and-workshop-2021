@@ -64,3 +64,7 @@ For the Live Virtual class
 * Google account
 * Microsoft VS Code (https://code.visualstudio.com/download)
 
+## Instructors
+ Name | Experiences | Profile |
+ :----- | :----- | :----- |
+ Mr. Prathan Dansakulcharoenkit | Over 15 years of experience in software testing, software test management, software project management, IT development management, IT operation (ITIL), training, mentoring and, coaching. | https://www.linkedin.com/in/prathan/ | 
