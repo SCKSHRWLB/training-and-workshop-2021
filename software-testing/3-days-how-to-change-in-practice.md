@@ -22,17 +22,17 @@ Format | Venue | No. of Participants | Duration | Hours per day | Days |
 **Live Virtual class - 3D** | Zoom meeting | 5 - 15 |3 days (18 hours) | 6 (09:00 - 16:00) | 3 |
 
 ## Who **MUST** attend
+* Development Manager
+* Test Manager
 * Software Tester
 * Quality Assurance
 * Developer / Programmer / Software Engineer
-* Business Analyst
-* System Analyst
-
-## Who **SHOULD** attend
-* Test Manager
-* Development Manager
 * Scrum Master who work in the software development
 * Agile Coach who work in the software development
+
+## Who **SHOULD** attend
+* Software Project Manager
+* Infrasturcture Manager
 
 ## Prerequisites
 There are no prerequisites.
