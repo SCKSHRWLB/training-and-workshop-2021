@@ -3,7 +3,7 @@
 ## Software Testing
 
 | Workshop Outline | Public Class | Private (Contact) |
-| :----- | :-----: | :-----: |
+| :----- | :----- | :-----: |
 | [2 Days Test Cases and Test Scenarios Design Techniques in Practices](./software-testing/2-days-test-techniques-in-practices.md) |Software Park Thailand | Yes ([shuhari@scrum123.com](mailto:shuhari@scrum123.com))  |
 | [2 Days Test Driven Development with C# in Practices](./software-testing/2-days-tdd-with-c-sharp-in-practices.md) | No | Yes ([shuhari@scrum123.com](mailto:shuhari@scrum123.com))  |
 
