@@ -6,7 +6,7 @@
 | :----- | :----- | :-----: |
 | [2 Days Test Cases and Test Scenarios Design Techniques in Practice](./software-testing/2-days-test-techniques-in-practices.md) |Software Park Thailand | Yes ([shuhari@scrum123.com](mailto:shuhari@scrum123.com))  |
 | [2 Days Test Driven Development with C# in Practice](./software-testing/2-days-tdd-with-c-sharp-in-practices.md) | No | Yes ([shuhari@scrum123.com](mailto:shuhari@scrum123.com))  |
-| [2 Days How to Change from Manual Testing to Automated Testing in Practice](./software-testing/2-days-how-to-change-in-practice.md) |IMC Institute | Yes ([shuhari@scrum123.com](mailto:shuhari@scrum123.com))  |
+| [2 Days How to Change from Manual Testing to Automated Testing in Practice](./software-testing/3-days-how-to-change-in-practice.md) |IMC Institute | Yes ([shuhari@scrum123.com](mailto:shuhari@scrum123.com))  |
 
 ## Agile Software Development
 
