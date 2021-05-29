@@ -10,6 +10,6 @@
 ## Agile Software Development
 
 | Workshop Outline | Public Class | Private (Contact) |
-| -------- | ------------ | ----------------- |
+| :----- | :----- | :-----: |
 | [3 Days Agile Software Development in Practice with Scrum Framework and Extreme Programming](./agile/3-days-agile-software-development.md) | [IMC Institute](http://www.imcinstitute.com/agile) | Yes ([shuhari@scrum123.com](mailto:shuhari@scrum123.com))  |
 | [2 Days Agile Project Management](./agile/2-days-agile-project-management.md) | [IMC Institute](http://www.imcinstitute.com/agileprj) | Yes ([shuhari@scrum123.com](mailto:shuhari@scrum123.com))  |
