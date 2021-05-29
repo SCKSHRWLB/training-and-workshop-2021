@@ -307,6 +307,6 @@ For the **Live Virtual class**
   * Automated Tests
   * Automated Deploy
 
-
+---
 ## For more information, contact us by
 * Email: shuhari@scrum123.com
