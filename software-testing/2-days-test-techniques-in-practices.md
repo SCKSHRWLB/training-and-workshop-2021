@@ -68,7 +68,7 @@ For the **Live Virtual class**
  Name | Experiences | Profile |
  :----- | :----- | :----- |
  Mr. Prathan Dansakulcharoenkit | Over 15 years of experience in software testing, software test management, software project management, IT development management, IT operation (ITIL), training, mentoring and, coaching. | https://www.linkedin.com/in/prathan/ | 
-
+---
 ## Workshop Outline of Face-to-Face class and Live Virtual - 2D class
 
 ### Day 1 (09:00 - 16:00)
@@ -307,3 +307,6 @@ For the **Live Virtual class**
   * Automated Tests
   * Automated Deploy
 
+
+## For more information, contact us by
+* Email: prathan@scrum123.com
