@@ -18,8 +18,13 @@
 * In Practice for the beginner who no experiences or who has a few experiences.
 * Language: Thai and English
 * Hands on exercises
+  * Individual
+  * Group
 * Project-bases learning
-* Experience sharing: Case studies, tips & tricks, and techniques
+* Experience sharing
+  * Case studies
+  * Tips & Tricks
+  * Techniques
 
 ## Who MUST attend
 * Software Tester
