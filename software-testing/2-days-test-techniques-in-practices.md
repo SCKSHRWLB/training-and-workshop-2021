@@ -28,7 +28,7 @@
 
 ## Workshop format
 Format | Venue | No. of Participants | Duration | Hours per day | Days |
------ | ----- | ----- | ----- | ----- | ----- |
+:----- | :----- | :-----: | :-----: | :-----: | :-----: |
 Face-to-Face class | SCK Dojo or Company | 5 - 15 |2 days (12 hours) | 6 (09:00 - 16:00) | 2 |
 Live Virtual class - A | Zoom meeting | 5 - 15 |2 days (12 hours) | 6 (09:00 - 16:00) | 2 |
 Live Virtual class - B | Zoom meeting | 5 - 15 |4 days (12 hours) | 3 (09:00 - 12:00) | 4 |
