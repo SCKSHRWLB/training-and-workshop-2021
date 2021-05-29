@@ -309,4 +309,4 @@ For the **Live Virtual class**
 
 
 ## For more information, contact us by
-* Email: prathan@scrum123.com
+* Email: shuhari@scrum123.com
