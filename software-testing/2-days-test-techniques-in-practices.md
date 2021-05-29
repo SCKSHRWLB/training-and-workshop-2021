@@ -26,6 +26,13 @@
   * Tips & Tricks
   * Techniques
 
+## Workshop format
+Format | Venue | No. of Participants | Duration | Hours per day | Days |
+----- | ----- | ----- | ----- | ----- | ----- |
+Face-to-Face class | SCK Dojo or Company | 5 - 15 |2 days (12 hours) | 6 (09:00 - 16:00) | 2 |
+Live Virtual class - A | Zoom meeting | 5 - 15 |2 days (12 hours) | 6 (09:00 - 16:00) | 2 |
+Live Virtual class - B | Zoom meeting | 5 - 15 |4 days (12 hours) | 3 (09:00 - 12:00) | 4 |
+
 ## Who MUST attend
 * Software Tester
 * Quality Assurance
@@ -39,9 +46,21 @@
 * Scrum Master who work in the software development
 * Agile Coach who work in the software development
 
-## Workshop format
-Format | Venue | Duration | Hours per day | Days |
------ | ----- | ----- | ----- | ----- |
-Face-to-Face class | SCK Dojo or Company | 2 days (12 hours) | 6 (09:00 - 16:00) | 2 |
-Live Virtual class - A | Zoom meeting | 2 days (12 hours) | 6 (09:00 - 16:00) | 2 |
-Live Virtual class - B | Zoom meeting | 4 days (12 hours) | 3 (09:00 - 12:00) | 4 |
+## Prerequisites
+There are no prerequisites.
+
+## Equipments Used in the Workshop
+For the Face-to-Face class and Live Virtual Class
+* Computer laptop with operating systems; Microsoft Windows, MacOS, or Linux
+
+## Softwares Used in the Workshop
+For the Face-to-Face class
+* Google account
+* Microsoft VS Code (https://code.visualstudio.com/download)
+
+For the Live Virtual class
+* Zoom meeting account (https://zoom.us/)
+* Zoom meeting client (https://zoom.us/download#client_4meeting)
+* Google account
+* Microsoft VS Code (https://code.visualstudio.com/download)
+
