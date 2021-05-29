@@ -1,13 +1,18 @@
 # The 2 days Test Cases and Test Scenarios Design Techniques in Practice Workshop
 
-## Objectives
-* The participants will gain the experience how to adopt the test cases blackbox design techniques.
-* The participants will gain the experience how to design the test scenarios in the level of the end-to-end testing throug the user interface.
-* The participants will gain the experience how to design the test scenarios in the level of the end-to-end testing throug the APIs (Appication Programming Interface).
-* The participants will learn how to prevent the bugs and the defects by using test cases and test scenarios design techniques.
-* The participants will learn how to develop the automated unit test cases.
-* The participants will learn how to develop the automated end-to-end testing throug the user interface.
-* The participants will learn how to develop the automated end-to-end testing throug the APIs (Appication Programming Interface).
+## With the help of your instructor, you will learn and practice
+* How to prevent the bugs and the defects by using the test cases and test scenarios design techniques in the software development life cycle:
+   * Waterfall model
+   * Agile Software Development with Scrum Framework
+   * Agile Software Development with Extreme Programming (XP)
+* How to design the test cases in the level of unit test.
+* How to design the test scenarios in the level of the end-to-end testing through 
+  * The user interface (UI)
+  * The APIs (Appication Programming Interface)
+* Techniques to driven develop develop the automated end-to-end testing through 
+    * The user interface (UI)
+  * The APIs (Appication Programming Interface)
+* Techniques to driven develop with the automated unit test cases.
 
 ## Workshop level
 * In Practice for the beginner who no experiences or who has a few experiences.
