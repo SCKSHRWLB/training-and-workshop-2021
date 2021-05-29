@@ -69,10 +69,9 @@ For the **Live Virtual class**
  :----- | :----- | :----- |
  Mr. Prathan Dansakulcharoenkit | Over 15 years of experience in software testing, software test management, software project management, IT development management, IT operation (ITIL), training, mentoring and, coaching. | https://www.linkedin.com/in/prathan/ | 
 
- ## Workshop Outline
-For the **Face-to-Face class** and the **Live Virtual - 2D class**
+ ## Workshop Outline (Face-to-Face class and Live Virtual - 2D class)
 
-### Day 1
+### Day 1 (09:00 - 16:00)
 **Module 1: The foundation of the software testing**
 * The two types of the software testing
   * Functional test
@@ -129,7 +128,7 @@ For the **Face-to-Face class** and the **Live Virtual - 2D class**
 * Exercise: How to design the test scenarios with the State Transition
 * Who can use this technique
 
-### Day 2
+### Day 2 (09:00 - 16:00)
 **Module 8: The foundation of the software development**
 * The software
 * The good software
