@@ -40,7 +40,7 @@ Format | Venue | No. of Participants | Duration | Hours per day | Days |
 
 ## Who
 
-### Who **MUST**/**SHOULD** attend
+### Who **SHOULD** attend
 
 - Product Manager
 - Project Manager
@@ -140,7 +140,7 @@ For the **Face-to-Face class** and **Live Virtual** Class
     - Iteration Level
     - Daily Level
     - Development Level
-  - 4 แนวปฏิบัติพื้นฐานของการทดสอบ และพัฒนาซอฟต์แวร์ 
+  - 4 แนวปฏิบัติพื้นฐานของการทดสอบ และพัฒนาซอฟต์แวร์
     - Source Code Management
     - Coding Standard
     - Automation Build, Test and Deployment
