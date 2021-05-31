@@ -45,7 +45,7 @@ Format | Venue | No. of Participants | Duration | Hours per day | Days |
 
 ### Who **MUST** attend
 
-- ­Agile Coach ที่เกี่ยวข้องกับการพัฒนาซอฟต์แวร์ 
+- ­Agile Coach ที่เกี่ยวข้องกับการพัฒนาซอฟต์แวร์
 - Scrum Master ที่เกี่ยวข้องกับการพัฒนาซอฟต์แวร์
 - หัวหน้าทีมพัฒนาซอฟต์แวร์ (Development Team Leader)
 - ผู้จัดการ และผู้บริหาร ที่เกี่ยวข้องกับการพัฒนาซอฟต์แวร์
