@@ -86,7 +86,7 @@ For the **Face-to-Face class** and **Live Virtual** Class
 
 ---
 
-## Workshop Outline of Face-to-Face class and Live Virtual - 2D class
+## Workshop Outline
 
 ### Day 1 (09:00 - 16:00)
 
