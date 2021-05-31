@@ -80,9 +80,9 @@ For the **Face-to-Face class** and **Live Virtual** Class
 
 ## Instructors
 
- Name | Experiences | Profile |
- :----- | :----- | :----- |
- {Name} | {Exp.}} | {Link} |
+| Name | Experiences | Profile |
+| :----- | :----- | :----- |
+| {Name} | {Exp.}} | {Link} |
 
 ---
 
