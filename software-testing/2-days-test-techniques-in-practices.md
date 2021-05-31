@@ -9,7 +9,7 @@
 * How to design the test scenarios in the level of the end-to-end testing through 
   * The user interface (UI)
   * The APIs (Appication Programming Interface)
-* Techniques to driven develop develop the automated end-to-end testing through 
+* Techniques to driven develop the automated end-to-end testing through 
     * The user interface (UI)
   * The APIs (Appication Programming Interface)
 * Techniques to driven develop with the automated unit test cases.
