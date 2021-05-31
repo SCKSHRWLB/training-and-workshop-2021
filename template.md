@@ -55,7 +55,6 @@ Format | Venue | No. of Participants | Duration | Hours per day | Days |
 
 {prerequisites}.
 
-
 ### Equipments Used in the Workshop
 
 For the **Face-to-Face class** and **Live Virtual** Class
