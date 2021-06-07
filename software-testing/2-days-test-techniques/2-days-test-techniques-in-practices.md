@@ -175,8 +175,10 @@ For the **Live Virtual class**
 
 **Module 12: Introduction to Unit Test**
 * What is the unit test
+* What is not the unit test
 * What is the test double
 * Test-Driven Development (TDD) practice - Extreme Programming (XP)
+* Exercise: Driven development with Test-Driven Development (TDD) practice - Extreme Programming (XP)
 
 **Module 13: Continuous Integration (CI)**
 * What is the Continous Integration (CI) practice - Extreme Programming (XP)
