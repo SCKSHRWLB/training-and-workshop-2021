@@ -6,7 +6,7 @@
    * Agile Software Development with Scrum Framework
    * Agile Software Development with Extreme Programming (XP)
 * How to design the test cases in the level of unit test.
-* How to design the test scenarios in the level of the end-to-end testing through 
+* How to design the test scenarios in the level of the end-to-end testing through
   * The user interface (UI)
   * The APIs (Appication Programming Interface)
 * Techniques to driven develop the automated end-to-end testing through 
@@ -29,7 +29,7 @@
 ## Workshop format
 Format | Venue | No. of Participants | Duration | Hours per day | Days |
 :----- | :----- | :-----: | :-----: | :-----: | :-----: |
-**Face-to-Face class** | SCK Dojo or Company | 5 - 15 |2 days (12 hours) | 6 (09:00 - 16:00) | 2 |
+**[Face-to-Face class]**(#workshop-outline-of-face-to-face-class-and-live-virtual-2d-class) | SCK Dojo or Company | 5 - 15 |2 days (12 hours) | 6 (09:00 - 16:00) | 2 |
 **Live Virtual class - 2D** | Zoom meeting | 5 - 15 |2 days (12 hours) | 6 (09:00 - 16:00) | 2 |
 **Live Virtual class - 4D** | Zoom meeting | 5 - 15 |4 days (12 hours) | 3 (09:00 - 12:00) | 4 |
 
@@ -307,6 +307,6 @@ For the **Live Virtual class**
   * Automated Tests
   * Automated Deploy
 
----
+
 ## For more information, contact us by
 * Email: shuhari@scrum123.com
