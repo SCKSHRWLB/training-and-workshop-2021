@@ -67,7 +67,7 @@ For the **Live Virtual class**
 ## Instructors
  Name | Experiences | Profile |
  :----- | :----- | :----- |
- Mr. Prathan Dansakulcharoenkit | Over 15 years of experience in software testing, software test management, software project management, IT development management, IT operation (ITIL), training, mentoring and, coaching. | https://www.linkedin.com/in/prathan/ | 
+ Mr. Prathan Dansakulcharoenkit | Over 15 years of experience in software testing, software test management, software project management, IT development management, IT operation (ITIL), training, mentoring and, coaching. | [Linked In] (https://www.linkedin.com/in/prathan/) | 
 ---
 ## Workshop Outline of Face to Face class and Live Virtual 2D class
 
