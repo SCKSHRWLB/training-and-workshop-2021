@@ -154,12 +154,12 @@ For the **Live Virtual class**
     * Functional tests: the end-to-end testing through the APIs (Appication Programming Interface)
     * Non-Functional tests: the performance testing
 * How to create the automated end-to-end testing through the user interface (UI) to driven development with
-  * Demonstrate: Robotframework + Selenium Library
+  * Exercise: Robotframework + Selenium Library
 * How to create the automated end-to-end testing through the APIs (Appication Programming Interface) to driven development
-  * Demonstrate: Robotframework + Request Library
-  * Demonstrate: Postman and Newman
+  * Exercise: Robotframework + Request Library
+  * Exercise: Postman and Newman
 * How to create the automated performance testing
-  * Demonstrate: Apache JMeter
+  * Exercise: Apache JMeter
 * How to adopt The User Story Readiness Workshops in the software development life cycle:
    * Waterfall model
    * Agile Software Development with Scrum Framework
@@ -181,7 +181,7 @@ For the **Live Virtual class**
 **Module 13: Continuous Integration (CI)**
 * What is the Continous Integration (CI) practice - Extreme Programming (XP)
 * What is the Continous Integration Pipeline
-* Demonstrate: How to use the Continous Integration Pipeline in the day to day of software development
+* Exercise: How to use the Continous Integration Pipeline in the day to day of software development
   * Automated Build
   * Automated Tests
   * Automated Deploy
@@ -274,12 +274,12 @@ For the **Live Virtual class**
     * Functional tests: the end-to-end testing through the APIs (Appication Programming Interface)
     * Non-Functional tests: the performance testing
 * How to create the automated end-to-end testing through the user interface (UI) to driven development with
-  * Demonstrate: Robotframework + Selenium Library
+  * Exercise: Robotframework + Selenium Library
 * How to create the automated end-to-end testing through the APIs (Appication Programming Interface) to driven development
-  * Demonstrate: Robotframework + Request Library
-  * Demonstrate: Postman and Newman
+  * Exercise: Robotframework + Request Library
+  * Exercise: Postman and Newman
 * How to create the automated performance testing
-  * Demonstrate: Apache JMeter
+  * Exercise: Apache JMeter
 * How to adopt The User Story Readiness Workshops in the software development life cycle:
    * Waterfall model
    * Agile Software Development with Scrum Framework
@@ -302,7 +302,7 @@ For the **Live Virtual class**
 **Module 13: Continuous Integration (CI)**
 * What is the Continous Integration (CI) practice - Extreme Programming (XP)
 * What is the Continous Integration Pipeline
-* Demonstrate: How to use the Continous Integration Pipeline in the day to day of software development
+* Exercise: How to use the Continous Integration Pipeline in the day to day of software development
   * Automated Build
   * Automated Tests
   * Automated Deploy
