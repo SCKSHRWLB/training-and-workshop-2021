@@ -56,13 +56,13 @@ For the **Face-to-Face class** and **Live Virtual** Class
 ## Softwares Used in the Workshop
 For the **Face-to-Face class**
 * Google account
-* Microsoft VS Code (https://code.visualstudio.com/download)
+* [Microsoft VS Code](https://code.visualstudio.com/download)
 
 For the **Live Virtual class**
-* Zoom meeting account (https://zoom.us/)
-* Zoom meeting client (https://zoom.us/download#client_4meeting)
+* [Zoom meeting account](https://zoom.us/)
+* [Zoom meeting client](https://zoom.us/download#client_4meeting)
 * Google account
-* Microsoft VS Code (https://code.visualstudio.com/download)
+* [Microsoft VS Code](https://code.visualstudio.com/download)
 
 ## Instructors
  Name | Experiences | Profile |
