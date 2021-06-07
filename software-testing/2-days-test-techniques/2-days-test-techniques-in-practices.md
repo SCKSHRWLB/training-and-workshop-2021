@@ -314,4 +314,4 @@ For the **Live Virtual class**
 
 
 ## For more information, contact us by
-* :email: Email: shuhari@scrum123.com
+* :email: shuhari@scrum123.com
