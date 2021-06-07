@@ -69,7 +69,7 @@ For the **Live Virtual class**
  :----- | :----- | :----- |
  Mr. Prathan Dansakulcharoenkit | Over 15 years of experience in software testing, software test management, software project management, IT development management, IT operation (ITIL), training, mentoring and, coaching. | https://www.linkedin.com/in/prathan/ | 
 ---
-## Workshop Outline of Face-to-Face class and Live Virtual - 2D class
+## Workshop Outline of Face to Face class and Live Virtual 2D class
 
 ### Day 1 (09:00 - 16:00)
 **Module 1: The foundation of the software testing**
