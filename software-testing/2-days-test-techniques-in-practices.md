@@ -188,7 +188,7 @@ For the **Live Virtual class**
 
   ---
 
-## Workshop Outline of Live Virtual - 4D class
+## Workshop Outline of Live Virtual 4D class
 
 ### Day 1 (09:00 - 12:00)
 **Module 1: The foundation of the software testing**
