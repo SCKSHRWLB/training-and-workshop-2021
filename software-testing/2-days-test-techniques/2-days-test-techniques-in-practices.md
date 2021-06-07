@@ -69,6 +69,7 @@ For the **Live Virtual class**
  :----- | :----- | :----- |
  Mr. Prathan Dansakulcharoenkit | Over 15 years of experience in software testing, software test management, software project management, IT development management, IT operation (ITIL), training, mentoring and, coaching. | [Linked In](https://www.linkedin.com/in/prathan/) | 
  Mr. Karan Sivarat |	Over 15 years of experience in software development, software project management, software process improvement (CMMi lv3/lv5), training, mentoring and, coaching.	| [Linked In](https://www.linkedin.com/in/bomb0069/) |
+ Mr. Thawatchai Jongsuwanpaisan | Over 15 years of experience in software development, training and, coaching | [Linkedin](https://www.linkedin.com/in/thawatchai) |
 ---
 ## Workshop Outline of Face to Face class and Live Virtual 2D class
 
