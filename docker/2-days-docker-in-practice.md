@@ -68,7 +68,7 @@ For the **Face-to-Face class** and **Live Virtual** Class
 
 ## Workshop Outline
 
-### Day 1 (09:00 - 16:00)
+### Day 1
 
 - Introduction to Containerization and Docker
 - Install Docker
@@ -77,14 +77,18 @@ For the **Face-to-Face class** and **Live Virtual** Class
     - Image
     - Registry
 - Docker Architecture and The Full Picture
-- Running Container
-- Image Creation Basics
+
+### Day 2 
+
+- Container
+- Image
 - Dockerfile
 
-### Day 2 (09:00 - 16:00)
+### Day 3
 
-- Docker Network
-- 
+- Network
+- Multi container
+- Docker Compose
 
 ---
 
