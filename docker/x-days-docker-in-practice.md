@@ -16,7 +16,7 @@
 Format | Venue | No. of Participants | Duration | Hours per day | Days |
 :----- | :----- | :-----: | :-----: | :-----: | :-----: |
 **Face-to-Face class** | SCK Dojo or Company | X - Y people |X days (12 hours) | 6 (09:00 - 16:00) | X |
-[Live Virtual class - 5D](#workshop-outline-of-live-virtual-5d-class) | Zoom meeting | 5 - 15 people |5 days (10 hours) | 2 (18:00 - 20:00) | 5 |
+[Live Virtual class - 5D](#workshop-outline-of-live-virtual-5d-class) | Zoom meeting | 5 - 10 people |5 days (10 hours) | 2 (18:00 - 20:00) | 5 |
 
 ---
 
@@ -128,11 +128,12 @@ For the **Face-to-Face class** and **Live Virtual** Class
 - What is Docker compose
   - Compose Basics
   - What About the Network Bridge?
-  - Starting Services
-  - Listing Services
-  - Executing Commands Inside a Running Service
-  - Accessing Logs From a Running Service
-  - Stopping Services
+  - Commande of Docker Compose
+    - Starting Services
+    - Listing Services
+    - Executing Commands Inside a Running Service
+    - Accessing Logs From a Running Service
+    - Stopping Services
 - Composing a Full-stack Application
 
 ---
