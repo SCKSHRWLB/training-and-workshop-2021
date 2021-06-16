@@ -16,7 +16,7 @@
 Format | Venue | No. of Participants | Duration | Hours per day | Days |
 :----- | :----- | :-----: | :-----: | :-----: | :-----: |
 **Face-to-Face class** | SCK Dojo or Company | X - Y people |X days (12 hours) | 6 (09:00 - 16:00) | X |
-**Live Virtual class - 5D** | Zoom meeting | 5 - 15 people |5 days (10 hours) | 2 (18:00 - 20:00) | 5 |
+[Live Virtual class - 5D](#workshop-outline-of-live-virtual-5d-class) | Zoom meeting | 5 - 15 people |5 days (10 hours) | 2 (18:00 - 20:00) | 5 |
 
 ---
 
