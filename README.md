@@ -1,4 +1,5 @@
 # The Shu Ha Ri Co., Ltd. - Training and Workshop 2021
+The knowledge and experience be delivered by the member of The Siam Chamnan Kit Co., Ltd. + Shu Ha Ri Co., Ltd. + We Love Bug Co., Ltd. and Alliance.
 
 ## Software Testing
 
