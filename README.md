@@ -1,4 +1,4 @@
-# Training and Workshop 2021
+# The Shu Ha Ri Co., Ltd. - Training and Workshop 2021
 
 ## Software Testing
 
