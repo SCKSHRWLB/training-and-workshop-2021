@@ -27,6 +27,7 @@
   * Techniques
 
 ## Workshop format
+
 | Format | Venue | No. of Participants | Duration | Hours per day | Days |
 | :----- | :----- | :-----: | :-----: | :-----: | :-----: |
 | [Face-to-Face class](#workshop-outline-of-face-to-face-class-and-live-virtual-2d-class) | SCK Dojo or Company | 5 - 20 |2 days (12 hours) | 6 (09:00 - 16:00) | 2 |
@@ -65,8 +66,9 @@ For the **Live Virtual class**
 * [Microsoft VS Code](https://code.visualstudio.com/download)
 
 ## Instructors
+
 | Name | Experiences | Profile |
- :----- | :----- | :----- |
+| :----- | :----- | :----- |
 | Mr. Prathan Dansakulcharoenkit | Over 15 years of experience in software testing, software test management, software project management, IT development management, IT operation (ITIL), training, mentoring and, coaching. | [Linkedin](https://www.linkedin.com/in/prathan/) | 
 | Mr. Karan Sivarat |	Over 15 years of experience in software development, software project management, software process improvement (CMMi lv3/lv5), training, mentoring and, coaching.	| [Linkedin](https://www.linkedin.com/in/bomb0069/) |
 | Mr. Thawatchai Jongsuwanpaisan | Over 15 years of experience in software development, training and, coaching | [Linkedin](https://www.linkedin.com/in/thawatchai) |
