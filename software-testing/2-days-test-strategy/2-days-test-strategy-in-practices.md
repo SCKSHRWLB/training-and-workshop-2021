@@ -131,7 +131,7 @@ Draw the current developing activities to deliver the software with the mindmap:
   * Service Tests
   * Unit Tests
 
-**Exercise 3: Design "How you are going to test the software?"**
+**Exercise 3: Design, How you are going to test the software?**
 Create the software testing strategy with the question "How you are going to test the software?" with
 * Mindmap
 * The Agile Testing Quadrants (Brian Marick)
@@ -142,7 +142,7 @@ Create the software testing strategy with the question "How you are going to tes
 * Automation Tests (Functional Tests and Nonfunctional Tests)
 * Automation Deploy with the Continuous Deployment
 
-**Exercise 4: Update "How you are going to test the software?"**
+**Exercise 4: Update, How you are going to test the software?**
 Update the software testing strategy with the question "How you are going to test the software?" with
 * Mindmap
 * Automation Build with the Continuous Integration (CI)
@@ -157,7 +157,7 @@ Update the software testing strategy with the question "How you are going to tes
 * Introduction to Microservice Architecture
 * Example of the software testing strategy in the Microservice Architecture
 
-**Exercise 5: Update "How you are going to test the software?"**
+**Exercise 5: Update, How you are going to test the software?**
 Update the software testing strategy with the question "How you are going to test the software?" with
 * Mindmap
 * Which your software architecture between the Monolith Architecture or the Microservice Architecture?
