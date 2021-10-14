@@ -173,4 +173,4 @@ Create the actionable plan to implementing the software testing strategy from Ex
 
 
 ## For more information, contact us by
-[shuhari@scrum123.com](mailto:shuhari@scrum123.com)
+[prathan@welovebug.biz](mailto:prathan@welovebug.biz)
