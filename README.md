@@ -7,7 +7,7 @@ The knowledge and experience be delivered by the member of The Siam Chamnan Kit 
 | :----- | :----- | :-----: |
 | [2 Days Test Cases and Test Scenarios Design Techniques in Practice](./software-testing/2-days-test-techniques/2-days-test-techniques-in-practices.md) |Software Park Thailand | Yes ([shuhari@scrum123.com](mailto:shuhari@scrum123.com))  |
 | [3 Days How to Change from Manual Testing to Automated Testing in Practice](./software-testing/3-days-how-to-change/3-days-how-to-change-in-practice.md) |IMC Institute | Yes ([shuhari@scrum123.com](mailto:shuhari@scrum123.com))  |
-| [2 Days How to Design, Implement,and Improve Software Test Strategy in Practice](./software-testing/2-days-test-strategy/2-days-test-strategy-in-practices.md) | - | Yes ([shuhari@scrum123.com](mailto:shuhari@scrum123.com))  |
+| [2 Days How to Design, Implement,and Improve Software Test Strategy in Practice](./software-testing/2-days-test-strategy/2-days-test-strategy-in-practices.md) | We Love Bug Biz | Yes ([shuhari@scrum123.com](mailto:prathan@welovebug.biz))  |
 
 ## Agile Software Development
 
