@@ -131,7 +131,7 @@ Draw the current developing activities to deliver the software with the mindmap:
   * Service Tests
   * Unit Tests
 
-**Exercise 3: Design, How you are going to test the software?**
+**Exercise 3: Design, How you are going to test the software?**  
 Create the software testing strategy with the question "How you are going to test the software?" with
 * Mindmap
 * The Agile Testing Quadrants (Brian Marick)
@@ -142,7 +142,7 @@ Create the software testing strategy with the question "How you are going to tes
 * Automation Tests (Functional Tests and Nonfunctional Tests)
 * Automation Deploy with the Continuous Deployment
 
-**Exercise 4: Update, How you are going to test the software?**
+**Exercise 4: Update, How you are going to test the software?**  
 Update the software testing strategy with the question "How you are going to test the software?" with
 * Mindmap
 * Automation Build with the Continuous Integration (CI)
@@ -157,12 +157,12 @@ Update the software testing strategy with the question "How you are going to tes
 * Introduction to Microservice Architecture
 * Example of the software testing strategy in the Microservice Architecture
 
-**Exercise 5: Update, How you are going to test the software?**
+**Exercise 5: Update, How you are going to test the software?**  
 Update the software testing strategy with the question "How you are going to test the software?" with
 * Mindmap
 * Which your software architecture between the Monolith Architecture or the Microservice Architecture?
 
-**Exercise 6: Create the actionable plan to implementing the software testing strategy**
+**Exercise 6: Create the actionable plan to implementing the software testing strategy**  
 Create the actionable plan to implementing the software testing strategy from Exercise 1  - Exercise 5  with
 * Defining the improvement measurements and target value that will be gained when implementing the software testing strategy
 * Defining the actionable plan with the monthly cycle to deliver and measure the measurements with Plan - Do - Study - Act and Plan - Do - Check - Act
@@ -171,4 +171,4 @@ Create the actionable plan to implementing the software testing strategy from Ex
 
 
 ## For more information, contact us by
-([shuhari@scrum123.com](mailto:shuhari@scrum123.com)
+[shuhari@scrum123.com](mailto:shuhari@scrum123.com)
