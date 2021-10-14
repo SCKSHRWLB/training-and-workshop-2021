@@ -21,8 +21,8 @@
 
 | Format | Venue | No. of Participants | Duration | Hours per day | Days |
 | :----- | :----- | :-----: | :-----: | :-----: | :-----: |
-| [Face-to-Face class](#workshop-outline-of-face-to-face-class-and-live-virtual-2d-class) | SCK Dojo or Company | 5 - 20 |2 days (12 hours) | 6 (09:00 - 16:00) | 2 |
-| [Live Virtual class - 2D](#workshop-outline-of-face-to-face-class-and-live-virtual-2d-class) | Zoom meeting | 5 - 20 |2 days (12 hours) | 6 (09:00 - 16:00) | 2 |
+| [Face-to-Face class](#workshop-outline-of-face-to-face-class-and-live-virtual-2d-class) | SCK Dojo or Company | 5 - 10 |2 days (12 hours) | 6 (09:00 - 16:00) | 2 |
+| [Live Virtual class - 2D](#workshop-outline-of-face-to-face-class-and-live-virtual-2d-class) | Zoom meeting | 5 - 10 |2 days (12 hours) | 6 (09:00 - 16:00) | 2 |
 
 ## Who **MUST** attend
 * Test Manager
@@ -62,6 +62,7 @@ For the **Live Virtual class**
 | Mr. Prathan Dansakulcharoenkit | Over 15 years of experience in software testing, software test management, software project management, IT development management, IT operation (ITIL), training, mentoring and, coaching. | [Linkedin](https://www.linkedin.com/in/prathan/) | 
 | Mr. Karan Sivarat |	Over 15 years of experience in software development, software project management, software process improvement (CMMi lv3/lv5), training, mentoring and, coaching.	| [Linkedin](https://www.linkedin.com/in/bomb0069/) |
 | Mr. Thawatchai Jongsuwanpaisan | Over 15 years of experience in software development, training and, coaching | [Linkedin](https://www.linkedin.com/in/thawatchai) |
+
 ---
 ## Workshop Outline of Face to Face class and Live Virtual 2D class
 
@@ -170,4 +171,4 @@ Create the actionable plan to implementing the software testing strategy from Ex
 
 
 ## For more information, contact us by
-:email: shuhari@scrum123.com
+([shuhari@scrum123.com](mailto:shuhari@scrum123.com)
