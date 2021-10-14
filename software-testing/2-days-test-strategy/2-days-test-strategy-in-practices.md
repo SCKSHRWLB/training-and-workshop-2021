@@ -2,8 +2,10 @@
 
 ## With the help of your instructor, you will learn and practice
 * How to design the software test strategy, the set of guidelines "How you are going to test the software?"
-* How to define actionable plan to implement the test strategy in the software development life cycle, The Waterfall Model?
-* How to define actionable plan to implement the test strategy in the software development life cycle, The Agile Software Development?
+* How to design the test strategy in the software development life cycle, The Waterfall Model
+* How to design actionable plan to implement the test strategy in the software development life cycle, The Agile Software Development
+* How to define the actionable plan to implement, monitor, and improve the software test stratrgy
+
 
 ## Workshop level
 * In Practice for the beginner who no experiences or who has a few experiences.
